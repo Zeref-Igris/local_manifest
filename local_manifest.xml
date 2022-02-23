@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/realme/RMX2061" name="Zeref-Igris/android_device_realme_RMX2061.git" remote="github" revision="twelve" />
+ <project path="device/realme/sm7125-common" name="Zeref-Igris/android_device_realme_sm7125-common.git" remote="github" revision="twelve" />
+ <project path="vendor/realme" name="Zeref-Igris/android_vendor_realme.git" remote="github" revision="twelve" />
+ <project path="kernel/realme/sm7125" name="/Zeref-Igris/android_kernel_realme_sm7125.git" remote="github" revision="twelve" />
+ <project path="hardware/xiaomi" name="/Zeref-Igris/hardware_xiaomi.git" remote="github" revision="twelve" />
+ 
+</manifest>
