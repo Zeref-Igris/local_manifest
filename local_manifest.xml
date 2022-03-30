@@ -6,7 +6,6 @@
  <project path="device/realme/sm7125-common" name="Zeref-Igris/android_device_realme_sm7125-common-1.git" remote="github" revision="12" />
  <project path="vendor/realme" name="Zeref-Igris/android_vendor_realme.git" remote="github" revision="12" />
  <project path="kernel/realme/sm7125" name="Zeref-Igris/android_kernel_realme_sm7125-1.git" remote="github" revision="12" />
- <project path="hardware/xiaomi" name="Zeref-Igris/hardware_xiaomi.git" remote="github" revision="12" />
  <project path="prebuilts/clang/host/linux-x86/clang-proton" name="pri0818/proton-clang.git" remote="github" revision="master" />
  
 </manifest>
