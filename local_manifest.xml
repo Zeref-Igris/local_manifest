@@ -2,7 +2,7 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/realme/RMX2061" name="Zeref-Igris/android_device_realme_RMX2061-1.git" remote="github" revision="awaken" />
+ <project path="device/realme/RMX2061" name="Zeref-Igris/android_device_realme_RMX2061-1.git" remote="github" revision="cherish-12.1" />
  <project path="device/realme/sm7125-common" name="Zeref-Igris/android_device_realme_sm7125-common-1.git" remote="github" revision="12" />
  <project path="vendor/realme" name="Zeref-Igris/android_vendor_realme.git" remote="github" revision="12" />
  <project path="kernel/realme/sm7125" name="Zeref-Igris/android_kernel_realme_sm7125-1.git" remote="github" revision="12" />
