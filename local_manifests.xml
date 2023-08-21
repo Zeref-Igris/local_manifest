@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="arpan"
+          fetch="https://github.com/Zeref-Igris" />
+
+  <remote name="arpan-gitlab"
+          fetch="https://gitlab.com/Zeref-Igris" />
+
+  <remote name="neel"
+          fetch="https://github.com/neel0210" />
+
+  <remote name="kdrag0n"
+          fetch="https://github.com/kdrag0n" />
+
+  <project path="device/realme/RMX2061" name="device_realme_RMX2061" remote="arpan" revision="superior-qpr3" /> 
+  <project path="vendor/realme" name="chime-vendor" remote="arpan-gitlab" revision="13" />
+  <project path="kernel/realme/RMX2061" name="android_kernel_realme_sm7125" remote="neel" revision="TENGEN" />
+  <project path="hardware/xiaomi" name="soul_hardware_xiaomi" remote="arpan" revision="13" />
+  <project path="packages/apps/KProfiles" name="soul_packages_apps_KProfiles"remote="arpan" revision="13" />
+  <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="kdrag0n" revision="master" />
+
+</manifest>
